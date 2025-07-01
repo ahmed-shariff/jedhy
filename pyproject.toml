@@ -28,10 +28,10 @@ classifiers = [
 ]
 
 [tool.poetry.dependencies]
-python = ">=3.10,<3.12"
-hy = "^0.27.0"
-toolz = "^0.12.0"
-hyrule = "^0.4.0"
+python = ">=3.10,<3.15"
+# hy = "^0.27.0"
+# toolz = "^0.12.0"
+# hyrule = "^0.4.0"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^7.4.2"
